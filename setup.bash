@@ -1,5 +1,7 @@
 #!/bin/bash -xve
+<<<<<<< HEAD
 #Written by inomata
+
 exec 2> /tmp/setup.log
 
 cd /home/ubuntu/RaspberryPiMouse/src/drivers/
